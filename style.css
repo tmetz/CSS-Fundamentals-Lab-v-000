@@ -29,3 +29,8 @@ figure {
   text-align: center;
   font-size: smaller;
 }
+
+#featured-property p {
+  text-align: center;
+  width: 800px;
+}
