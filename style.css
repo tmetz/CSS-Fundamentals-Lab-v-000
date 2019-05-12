@@ -14,3 +14,13 @@ img {
   margin-left: auto;
   margin-right: auto;
 }
+
+nav {
+  margin: auto;
+  text-align:center;
+}
+
+nav a {
+  padding: 10px 10px;
+  color: gray;
+}
