@@ -24,3 +24,8 @@ nav a {
   padding: 10px 10px;
   color: gray;
 }
+
+figure {
+  text-align: center;
+  font-size: smaller;
+}
