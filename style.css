@@ -34,3 +34,11 @@ figure {
   text-align: center;
   width: 800px;
 }
+
+#details {
+  display: block;
+}
+
+#details div {
+  float: left;
+}
